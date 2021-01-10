@@ -13,6 +13,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 #### Headings by default:
 
 # H1 For example
+
 ## H2 For example
 ### H3 For example
 #### H4 For example
