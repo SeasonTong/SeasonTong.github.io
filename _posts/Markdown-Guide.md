@@ -1,0 +1,53 @@
+---
+layout: post
+title:  Markdown基础语法与入门
+image:  markdown.jpg
+date:   2021-01-11 10:18:30
+tags:
+categories: 技术方桌
+
+---
+
+> Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式
+
+***
+
+## 认识Markdown
+
+在刚才的导语里提到，Markdown 是一种用来写作的轻量级「标记语言」，它用简洁的语法代替排版，而不像一般我们用的字处理软件 Word 或 Pages 有大量的排版、字体设置。它使我们专心于码字，用「标记」语法，来代替常见的排版格式。例如此文从内容到格式，甚至插图，键盘就可以通通搞定了。
+
+***
+
+## Markdown官方文档
+
+这里可以看到官方的 Markdown 语法规则文档，当然，后文我也会用自己的方式，阐述这些语法在实际使用中的用法
+
+* [创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax)
+
+* [Markdown 中文版语法说明](http://wowubuntu.com/markdown/#list)
+
+***
+
+## Markdown的优点
+
+* 专注你的文字内容而不是排版样式，安心写作。
+* 轻松的导出 HTML、PDF 和本身的 .md 文件。
+* 纯文本内容，兼容所有的文本编辑器与字处理软件。
+* 随时修改你的文章版本，不必像字处理软件生成若干文件版本导致混乱。
+* 直观、可读、学习成本低。
+
+***
+
+## Markdown的使用误区
+
+> We believe that writing is about content, about what you want to say – not about fancy formatting.
+>
+> 我们坚信写作写的是内容，所思所想，而不是花样格式。
+> — Ulysses for Mac
+
+Markdown 旨在简洁、高效，也由于 Markdown 的易读易写，人们用不同的编程语言实现了多个版本的解析器和生成器。这就导致了目前不同的 Markdown 工具集成了不同的功能（基础功能大致相同），例如流程图与时序图，复杂表格与复杂公式的呈现。
+
+虽然功能的丰富并没有什么本质的缺点，但终归有些背离初衷，何况在编写的过程中很费神，不如使用专业的工具撰写来的更有效率，所以如果你需实现复杂功能，专业的图形界面工具会更加方便。
+
+当然，如果你对折腾这些不同客户端对 Markdown 的定制所带来高阶功能感到愉悦的话，那也是无可厚非的。
+
