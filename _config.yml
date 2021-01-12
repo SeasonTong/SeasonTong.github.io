@@ -47,8 +47,7 @@ author:
       url: 
     - name: vk
       url:
-    -name:  QQ
-      url:  https://qm.qq.com/cgi-bin/qm/qr?k=MgzI8t_y87We7o5uRPiuYTnimTg1m3oM&noverify=0
+
 home:
   section1: <h1>Tong's Blog</h1>
   #section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
