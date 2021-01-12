@@ -1,53 +1,69 @@
-title: Tong的万事屋
-description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+# Site Settings
+encoding: UTF-8
+exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
+lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
+permalink: /blog/:year/:month/:day/:title/
 
-# Author
-author-name:    Season Tong
-author-image:   头像.jpg
-author-job:     本科大三在读，IoT专业
-author-email:   13037032279@163.com # Add your email for contant form.
-author-twitter:  # Add your twitter account
-about-author:    物联网是人类的超能力
-
-# Social settings
-social-twitter:   
-social-facebook:
-social-github:    SeasonTong
-social-pinterest: 
-social-instagram: 
-social-youtube:
-social-vk:   
-social-linkedin:
-
-# Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1
-
-# Comment Section (Disqus)
-disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brown
-
-# Build settings
-markdown: kramdown
-permalink: /:year/:month/:day/:title/
+whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-paginate: 7
-paginate_path: "/page/:num/"
-
-include:
-  - _pages
+markdown: kramdown
+kramdown:
+  auto_id_prefix: 'heading-'
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  toc_levels: 1..3
 
 sass:
-  sass_dir: _sass
   style: compressed
 
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+# Site Data
+url: # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the subpath of your site, e.g. /blog
+title: Tong's Blog
+description: # "A gem-based responsive simple texture styled Jekyll theme."
+keywords: 'jekyll,theme,gem-based,blog'
+
+author:
+  name:       Season Tong
+  job_title:  本科大三在读
+  location:
+  email:      13037032279@163.com
+  social_links:
+    - name: facebook
+      url:
+    - name: github
+      url: https://github.com/SeasonTong
+    - name: instagram
+      url:
+    - name: linkedin
+      url:
+    - name: stackoverflow
+      url:
+    - name: twitter
+      url: 
+    - name: vk
+      url:
+home:
+  section1: <h1>Simple Texture</h1>
+  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+blog:
+  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
+  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
+  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+
+disqus:
+  shortname: # e.g. yizeng
+  public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
+google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
+addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
+
+paths:
+  home: /
+  blog: /blog/
+  categories: /blog/categories/
+  tags: /blog/tags/

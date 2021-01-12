@@ -1,9 +1,9 @@
 source "https://rubygems.org"
+gemspec
 
-gem 'bundler'
-gem 'jekyll'
-gem 'jekyll-paginate'
+# If you've just forked the repo,
+# please remove the content above and uncomment the following before bundling.
+#
+# source "https://rubygems.org"
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
+# gem "github-pages", group: :jekyll_plugins
