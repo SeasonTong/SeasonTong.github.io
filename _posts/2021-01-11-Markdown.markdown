@@ -61,6 +61,8 @@ Markdown 旨在简洁、高效，也由于 Markdown 的易读易写，人们用�
 
   ![图 / Cmd Markdown](https://s3.ax1x.com/2020/11/16/DktTVe.png)
 
+  ***
+
 * 客户端：[Typora](http://typora.io) ，它的功能之强大、设计之冷静、体验之美妙、理念之先进,是我认为桌面端笔记应用应有的终极形态
 
   ![图 / Typora](https://s1.ax1x.com/2020/09/06/wmFGGD.png)

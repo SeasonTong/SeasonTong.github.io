@@ -36,7 +36,7 @@ Notion 中最常见的单位就是「Block」(内容块)，这可以说也是 No
 
 [![img](https://cdn.sspai.com/2019/11/17/d1c909841e0aa00e904295de04554f19.gif)](https://cdn.sspai.com/2019/11/17/d1c909841e0aa00e904295de04554f19.gif)
 
-图 / Notion官网
+​																							
 
 ***
 
@@ -48,7 +48,7 @@ Notion 中最常见的单位就是「Block」(内容块)，这可以说也是 No
 
 [![img](https://cdn.sspai.com/2017/06/22/648087a3692a6de1639b9bb1b660affd.gif)](https://cdn.sspai.com/2017/06/22/648087a3692a6de1639b9bb1b660affd.gif)
 
-图 / 在Page中创建子Page
+
 
 ***
 
@@ -64,7 +64,7 @@ Notion 的随意拖拽和栅格排列，给用户一种**操纵感**和**驾驭�
 
 [![img](https://cdn.sspai.com/2017/06/22/501372c93062a32a5f886161d1744e5b.gif)](https://cdn.sspai.com/2017/06/22/501372c93062a32a5f886161d1744e5b.gif)
 
-图 / Block自由拖动
+
 
 ***
 
@@ -83,7 +83,7 @@ Notion中目前有四种列表:
 
 [![img](https://cdn.sspai.com/2017/06/22/e6720577a94a49947d0d5265a609bee2.gif)](https://cdn.sspai.com/2017/06/22/e6720577a94a49947d0d5265a609bee2.gif)
 
-图 / 可收起展开的列表
+
 
 ***
 
@@ -97,7 +97,7 @@ Notion中目前有四种列表:
 
 [![img](https://cdn.sspai.com/2017/06/22/d7b67ca2f276e9003f198b7bfdf98230.gif)](https://cdn.sspai.com/2017/06/22/d7b67ca2f276e9003f198b7bfdf98230.gif)
 
-图 / 嵌入在线视频
+
 
 ***
 
@@ -107,7 +107,7 @@ Notion中目前有四种列表:
 
 [![img](https://cdn.sspai.com/2017/06/22/d7bd92a35f861dfe2178e0bd5044db20.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)](https://cdn.sspai.com/2017/06/22/d7bd92a35f861dfe2178e0bd5044db20.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
-图 / 搜索
+
 
 ***
 
@@ -119,7 +119,7 @@ Notion 支持导入 [Word](https://www.iplaysoft.com/go/officepost)、[印象笔
 
 [![img](https://s3.ax1x.com/2020/11/16/DADsJS.gif)](https://s3.ax1x.com/2020/11/16/DADsJS.gif)
 
-图 / 笔记共享
+
 
 ***
 
@@ -129,7 +129,7 @@ Notion 跨平台支持 Web 网页、Windows、macOS、iOS 和 Android，并且�
 
 [![img](https://s3.ax1x.com/2020/11/16/DA0w6A.png)](https://s3.ax1x.com/2020/11/16/DA0w6A.png)
 
-图 / 多端同步
+
 
 ***
 
@@ -139,7 +139,7 @@ Notion 跨平台支持 Web 网页、Windows、macOS、iOS 和 Android，并且�
 
 [![img](https://cdn.sspai.com/2017/06/22/faa5ebd2c58dc3c106f1b01c47c7d63e.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)](https://cdn.sspai.com/2017/06/22/faa5ebd2c58dc3c106f1b01c47c7d63e.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
-图 / 历史版本回滚
+
 
 ***
 
