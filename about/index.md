@@ -1,24 +1,25 @@
 ---
 layout: page
-title: About the Theme
+title: About
 tags: [about, Jekyll, theme, moon]
 date: 2021-01-12
 comments: false
 ---
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+
+## Author
+
+* 本科大三在读 , IOT专业
+* 物联网是人类的超能力
+
+## Theme Features
+
+* 简洁，专注于内容
+* 响应式设计
+* Disqus 集成
+
+## Theme Preview
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
