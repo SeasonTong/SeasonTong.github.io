@@ -19,19 +19,19 @@ Sublime Text3是个很好用的轻量编辑器，，支持多语言语法高亮�
 
 ### C语言编译器，支持GDB
 
-~~~
+~~~c
 {      "cmd" : ["gcc", "$file_name", "-o", "${file_base_name}", "-lm", "-Wall"],      "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",      "selector" : "source.c, source.c++",      "shell":false,      "working_dir" : "$file_path",      "variants":      [          {            "name": "RunInCommand",            "cmd": ["cmd", "/c", "gcc","-g", "${file}", "-o", "${file_path}/${file_base_name}", "&&","start", "cmd", "/k", "${file_path}/${file_base_name}"]          }      ]  }
 ~~~
 
 ### C++编译器，支持GDB
 
-~~~
+~~~c++
 { "cmd" : ["g++", "$file_name", "-o", "${file_base_name}", "-lm", "-Wall"], "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$", "selector" : "source.c, source.c++", "shell":false, "working_dir" : "$file_path", "variants": [ { "name": "RunInCommand", "cmd": ["cmd", "/c", "g++","-g", "${file}", "-o", "${file_path}/${file_base_name}", "&&","start", "cmd", "/k", "${file_path}/${file_base_name}"] } ] }
 ~~~
 
 ### Java编译器
 
-~~~
+~~~java
 {      "cmd" : ["javac", "$file_name"],      "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",      "selector" : "source.java",      "shell":false,      "working_dir" : "$file_path",      "variants":      [          {            "name": "RunInCommand",            "cmd": ["cmd", "/c", "javac","${file}","&&","start", "cmd", "/k", "java $file_name"]          }        ,          {              "name":"Debug",              "cmd": ["cmd", "/c","javac","${file}","&&","start", "cmd", "/k","gdb ${file_path}/${file_base_name}"]          }      ]  }
 ~~~
 
