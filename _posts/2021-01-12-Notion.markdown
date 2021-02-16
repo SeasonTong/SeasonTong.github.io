@@ -105,9 +105,7 @@ Notion中目前有四种列表:
 
 搜索是电子笔记相比纸质笔记最大的优势。Notion 的搜索是全文检索，通过点击左栏（目录栏）上的 `Quick Find` 或者按下 `Cmd` + `/`（Windows 下是 `Ctrl` + `/` ）。搜索速度还不错，呈现也比印象笔记要友好得多: 如果搜索结果是标题，则只显示 Page 标题；若搜索结果在文中，则会显示所在 Page 的标题，以及在文中所出现位置的上下文（而不是把所有符合条件的笔记以统一的、简单的方式用一个列表罗列出来，让你自己在列表中再找一遍）。
 
-[![img](https://cdn.sspai.com/2017/06/22/d7bd92a35f861dfe2178e0bd5044db20.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)](https://cdn.sspai.com/2017/06/22/d7bd92a35f861dfe2178e0bd5044db20.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
-
-
+![image-20210216113214034](C:\Users\18217\AppData\Roaming\Typora\typora-user-images\image-20210216113214034.png)
 
 ***
 
