@@ -1,7 +1,7 @@
 ---
 layout: photos
-title: All Projects
-excerpt: "A List of Projects"
+title: 12344
+excerpt: 123
 comments: false
 ---
 
