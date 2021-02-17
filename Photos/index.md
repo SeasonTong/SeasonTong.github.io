@@ -1,10 +1,6 @@
 ---
 layout: photos
-title: All Projects
+title: All Photos
 excerpt: "A List of Projects"
 comments: false
 ---
-
-
-
-12345re4343fe
