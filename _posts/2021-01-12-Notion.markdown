@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    [技术]Notion快速上手指南
+title:    Notion快速上手指南
 image:
 date:     2021-01-12 10:44:30
 tags:     [DOCS]

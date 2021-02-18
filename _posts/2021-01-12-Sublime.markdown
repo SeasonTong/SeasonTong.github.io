@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   [技术]Sublime Text3配置C/C++环境编译
+title:   Sublime Text3配置C/C++环境编译
 image:   
 date:    2021-01-12 10:03:30
 tags:    [DOCS]
