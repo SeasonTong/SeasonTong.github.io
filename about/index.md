@@ -12,6 +12,7 @@ comments: false
 
 * 本科大三在读 , IOT专业
 * 物联网是人类的超能力
+* 不会摄影的滑板手不是好程序员
 
 ## Theme Features
 
