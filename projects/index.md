@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All Projects
-excerpt: "A List of Projects"
+title: All Photos
+excerpt: "A List of Photos"
 comments: false
 ---
 
@@ -9,4 +9,3 @@ comments: false
 
 
 
-123442
