@@ -13,7 +13,7 @@ categories:
 
 本教程使用[GitHub Pages](https://pages.github.com/) + [Jekyll](https://www.jekyll.com.cn/) 进行搭建
 
-另还有[GitHub Pages](https://pages.github.com/) + [hexo](https://hexo.io/zh-cn/) 的方式搭建个人博客，小伙伴们可以另行搜索
+另还有[GitHub Pages](https://pages.github.com/) + [Hexo](https://hexo.io/zh-cn/) 的方式搭建个人博客，小伙伴们可以另行搜索
 
 ![image-20210219194423456](https://gitee.com/tong9910/image/raw/master/img/image-20210219194423456.png)
 
@@ -80,6 +80,8 @@ categories:
 
 为什么使用桌面版呢，因为简单，适合小白，没那么多命令行(官网可能下载较慢，文末附软件下载链接)
 
+---
+
 ### Desktop登录
 
 + 账号登录后点击`File` ->`Clone repository`
@@ -100,7 +102,7 @@ categories:
 
 ---
 
-+ 寻找喜欢的博客模版，推荐一个[Jekyll博客主题网站](http://jekyllthemes.org/)，将模板下载下来之后，将文件全部复制到仓库本地文件夹当中
++ 寻找喜欢的博客模版，推荐一个[Jekyll博客主题网站](http://jekyllthemes.org/)，将模板下载解压之后，将文件全部复制到仓库本地文件夹中
 
   <img src="https://gitee.com/tong9910/image/raw/master/img/image-20210219185043324.png" alt="image-20210219185043324" style="zoom:50%;" />
 
@@ -112,7 +114,7 @@ categories:
 
 ---
 
-+ 接下来点击 **如图所示区域**便可进行远程部署(可能会有某些网络问题导致上传失败，多尝试几次即可)
++ 接下来点击 **如图所示区域** 便可进行远程部署(可能会有某些网络问题导致上传失败，多尝试几次即可)
 
   <img src="https://gitee.com/tong9910/image/raw/master/img/image-20210219185810518.png" alt="image-20210219185810518" style="zoom:67%;" />
 
