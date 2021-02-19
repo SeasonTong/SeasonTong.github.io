@@ -15,7 +15,7 @@ categories:
 
 另还有[GitHub Pages](https://pages.github.com/) + [hexo](https://hexo.io/zh-cn/) 的方式搭建个人博客，小伙伴们可以另行搜索
 
-<img src="https://gitee.com/tong9910/image/raw/master/img/blog" style="zoom: 50%;" />
+![](https://gitee.com/tong9910/image/raw/master/img/blog)
 
 ---
 
@@ -23,9 +23,9 @@ categories:
 
 ## 注册GitHub账号
 
-要使用 GitHub Pages，首先需注册一个[GitHub](https://github.com/)账号，GitHub 是全球最大的同性交友网站(狗头)，你值得拥有。
+要使用 GitHub Pages，首先需注册一个[GitHub](https://github.com/)账号，GitHub 是全球最大的同性交友网站(手动狗头)，你值得拥有。
 
-<img src="https://gitee.com/tong9910/image/raw/master/img/github" style="zoom: 50%;" />
+![](https://gitee.com/tong9910/image/raw/master/img/github)
 
 ---
 
@@ -146,6 +146,6 @@ categories:
 
 到这里就结束了，没有涉及到命令行等其他复杂的知识，以下是搭建过程中需要的软件与网站,希望通过我的分享，大家都可以搭建好属于自己的网站
 
-+ GitHub桌面版 : https://tih.lanzous.com/ilidzluxexg
-+ Jekyll主题网站 : http://jekyllthemes.org/
-+ Markdown基础语法入门 : https://seasontong.github.io//Markdown/
++ [GitHub桌面版](https://tih.lanzous.com/ilidzluxexg)
++ [Jekyll主题网站](http://jekyllthemes.org/)
++ [Markdown基础语法入门](https://seasontong.github.io//Markdown/)
