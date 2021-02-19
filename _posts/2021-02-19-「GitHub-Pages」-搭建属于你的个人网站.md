@@ -15,7 +15,7 @@ categories:
 
 另还有[GitHub Pages](https://pages.github.com/) + [hexo](https://hexo.io/zh-cn/) 的方式搭建个人博客，小伙伴们可以另行搜索
 
-![](https://gitee.com/tong9910/image/raw/master/img/blog)
+![image-20210219194423456](https://gitee.com/tong9910/image/raw/master/img/image-20210219194423456.png)
 
 ---
 
@@ -25,7 +25,7 @@ categories:
 
 要使用 GitHub Pages，首先需注册一个[GitHub](https://github.com/)账号，GitHub 是全球最大的同性交友网站(手动狗头)，你值得拥有。
 
-![](https://gitee.com/tong9910/image/raw/master/img/github)
+![image-20210219194501599](https://gitee.com/tong9910/image/raw/master/img/image-20210219194501599.png)
 
 ---
 
