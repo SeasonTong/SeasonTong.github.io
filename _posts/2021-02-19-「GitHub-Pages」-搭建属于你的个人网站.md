@@ -78,7 +78,7 @@ categories:
 
 ### 下载[GitHub 桌面版](https://desktop.github.com/)
 
-为什么使用桌面版呢，因为简单，适合小白，没那么多命令行(文末附软件下载链接)
+为什么使用桌面版呢，因为简单，适合小白，没那么多命令行(官网可能下载较慢，文末附软件下载链接)
 
 ### Desktop登录
 
@@ -106,7 +106,46 @@ categories:
 
 ---
 
-+ 接下来打开GitHub桌面版，会发现出现许多`Changes`，在`Summary`随意输入一些内容，点击`Commit to main`便可远程部署
++ 接下来打开GitHub桌面版，会发现出现许多`Changes`，在`Summary`随意输入一些内容，点击`Commit to main`进行push
 
   <img src="https://gitee.com/tong9910/image/raw/master/img/image-20210219185506385.png" alt="image-20210219185506385" style="zoom: 67%;" />
 
+---
+
++ 接下来点击 **如图所示区域**便可进行远程部署(可能会有某些网络问题导致上传失败，多尝试几次即可)
+
+  <img src="https://gitee.com/tong9910/image/raw/master/img/image-20210219185810518.png" alt="image-20210219185810518" style="zoom:67%;" />
+
+---
+
++ 回到GitHub主页上，也会发现该仓库更新了许多文件
+
+  <img src="https://gitee.com/tong9910/image/raw/master/img/image-20210219190132732.png" alt="image-20210219190132732" style="zoom:50%;" />
+
+---
+
+# 博客优化
+
+## 网站优化
+
+在仓库本地文件夹中找到`_config.yml`文件，根据自己需求进行修改
+
+<img src="https://gitee.com/tong9910/image/raw/master/img/image-20210219190611867.png" alt="image-20210219190611867" style="zoom:50%;" />
+
+---
+
+## 内容输出
+
+发表博客时，需将文章保存在`_post`文件夹中，文章格式为`.md`文件，关于在撰写文章时的语法规则，可参考我之前的博客[Markdown基础语法入门](https://seasontong.github.io//Markdown/)
+
+![image-20210219191010934](https://gitee.com/tong9910/image/raw/master/img/image-20210219191010934.png)
+
+---
+
+# 后言
+
+到这里就结束了，没有涉及到命令行等其他复杂的知识，以下是搭建过程中需要的软件与网站,希望通过我的分享，大家都可以搭建好属于自己的网站
+
++ GitHub桌面版 : https://tih.lanzous.com/ilidzluxexg
++ Jekyll主题网站 : http://jekyllthemes.org/
++ Markdown基础语法入门 : https://seasontong.github.io//Markdown/
