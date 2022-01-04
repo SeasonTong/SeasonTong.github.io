@@ -3,7 +3,7 @@ layouy:  post
 title:  「GitHub Pages」 搭建属于你的个人博客
 image:
 date:   2021-02-19 15:18:30
-tags: 	
+tags: 	[DOCS]
 categories: 
 ---
 
