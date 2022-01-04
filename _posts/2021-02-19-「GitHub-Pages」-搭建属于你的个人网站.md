@@ -8,6 +8,8 @@ tags: 	[DOCS]
 
 > 使用Github Pages搭建个人博客，一劳永逸，可以让我们更加专注于博客的撰写
 
+<!--more-->
+
 # 前言
 
 本教程使用[GitHub Pages](https://pages.github.com/) + [Jekyll](https://www.jekyll.com.cn/) 进行搭建
