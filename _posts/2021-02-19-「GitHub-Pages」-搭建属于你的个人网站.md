@@ -4,7 +4,6 @@ title:  「GitHub Pages」 搭建属于你的个人博客
 image:
 date:   2021-02-19 15:18:30
 tags: 	[DOCS]
-categories: 
 ---
 
 > 使用Github Pages搭建个人博客，一劳永逸，可以让我们更加专注于博客的撰写
