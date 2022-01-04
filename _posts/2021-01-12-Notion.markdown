@@ -8,6 +8,8 @@ tags:     [DOCS]
 
 >  Notion是一款极其出色的个人笔记软件，它将“万物皆对象”的思维运用到笔记中，让使用者可以天马行空地去创造、拖拽、链接
 
+<!--more-->
+
 ## 概述
 
 从老牌的 [OneNote](https://www.iplaysoft.com/onenote.html)、[印象笔记](https://www.iplaysoft.com/yinxiangbiji.html)、[为知笔记](https://www.iplaysoft.com/wiz.html)、[有道云笔记](https://note.youdao.com/)，到较新的 [熊掌记 Bear](https://www.iplaysoft.com/bear.html)，或者小众的 [Leanote 蚂蚁笔记](https://www.iplaysoft.com/leanote.html)、[SimpleNote](https://www.iplaysoft.com/simplenote.html)、[VNote](https://www.iplaysoft.com/vnote.html)、[Notation](https://www.iplaysoft.com/notation.html)、[Zoho笔记](https://www.iplaysoft.com/zoho-notebook.html) 等。这功能被翻来覆去的做，但依然还有创新和打磨的地方，而「[Notion](https://www.iplaysoft.com/go/notion)」再次让人看到了不一样的可能。
