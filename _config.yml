@@ -1,12 +1,12 @@
 # Site
 title:              西山小馆
-bio:                ''
+bio:                '一定存在只有你才能做的事.'
 description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/pic.jpg'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                
 
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              13037032279@163.com
 #twitter:            username
 #facebook:           username
 github-url:         seasontong
@@ -50,7 +50,7 @@ github-url:         seasontong
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              _amd64_
+steam:              76561199223558862
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
