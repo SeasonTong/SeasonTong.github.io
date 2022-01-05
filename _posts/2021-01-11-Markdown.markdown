@@ -4,13 +4,13 @@ title:  Markdown基础语法与入门
 image:  markdown.jpg
 date:   2021-01-11 10:18:30
 tags:   [DOCS]
+categories:
+
 ---
 
 > Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式
 
 ***
-
-<!--more-->
 
 ## 认识Markdown
 
