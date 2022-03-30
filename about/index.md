@@ -6,9 +6,7 @@ date: 2020-03-20
 comments: false
 ---
 
-
-
-## About Me
+# About Me
 * Java / C / Python / Docker
 * 数码发烧友 
 * 硬件 DIY 极客
@@ -16,7 +14,7 @@ comments: false
 
 
 
-## About Theme
+# About Theme
 
 * 轻量化 , 专注于内容
 * 响应化设计
