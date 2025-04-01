@@ -1,30 +1,55 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# Pineapple
 
+Pineapple is a minimalistic [Jekyll](https://jekyllrb.com) portfolio theme that focuses on putting your projects in the spotlight.
 
+![Pineapple screenshot](https://user-images.githubusercontent.com/9528895/38713105-6dda8a74-3ec7-11e8-8062-8aa6cf24c795.jpg)
 
-######(If you like this theme or using it, please give a :star: for motivation.)
+See Pineapple in action on the [demo site](https://arnolds.io/pineapple/).
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+## Contents
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+- [Setup](#setup)
+- [Deploy to Github Pages](#deploy-to-github-pages)
+- [Creating projects](#creating-projects)
+- [Resources](#resources)
+- [License](#license)
 
-## Preview
+## Setup
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+Install dependencies:
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+```
+$ gem install jekyll bundler
+```
 
-## Getting Started
+Pulldown the project:
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+```
+$ git clone git@github.com:arnolds/pineapple.git
+$ cd pineapple
+```
+
+Start Jekyll:
+
+```
+$ jekyll serve
+```
+
+Browse to http://127.0.0.1:4000/pineapple/ for some Pineapple goodness.
+
+## Deploy to Github Pages
+
+1. Fork this repository, then rename the repository to yourgithubusername.github.io.
+2. Update user configuration values in `_config.yml`, and also set `baseurl: ""`.
+
+## Creating projects
+
+Projects are created as `.md` documents within the `_posts/projects` directory. They follow the same naming conventions as regular [Jekyll posts](https://jekyllrb.com/docs/posts/). Pineapple comes with four example projects, which you should use as a guide for creating your own e.g. [Red Pineapple](_posts/projects/2017-04-01-redpineapple.md).
+
+## Resources
+
+- [Apple Devices PSD Mockup Templates](https://www.graphicsfuel.com/2016/04/apple-devices-psd-mockup-templates/)
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
